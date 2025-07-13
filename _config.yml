@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: n324
+description: "n324 is a theme for nerds, geeks, and obsessionists around the world."
 encoding: utf-8
+exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock", "flake.nix", "flake.lock"]
 
-exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
