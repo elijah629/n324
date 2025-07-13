@@ -1,4 +1,8 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# n324
+
+_n324_ is a theme for nerds, geeks, and obsessionists around the world.
+
